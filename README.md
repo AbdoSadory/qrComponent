@@ -16,10 +16,12 @@
 ### Screenshot
 
 Desktop size
-(https://github.com/AbdoSadory/qrComponent/screencapture-localhost-3000-2023-01-13-22_26_53.png)
+<br/>
+![alt text](https://github.com/AbdoSadory/qrComponent/blob/main/screencapture-localhost-3000-2023-01-13-22_26_53.png)
 
 Mobile size (375px)
-![alt text](https://github.com/AbdoSadory/qrComponent/screencapture-localhost-3000-2023-01-13-22_27_22.png?raw=true)
+<br/>
+![alt text](https://github.com/AbdoSadory/qrComponent/blob/main/screencapture-localhost-3000-2023-01-13-22_27_22.png)
 
 ### Links
 
