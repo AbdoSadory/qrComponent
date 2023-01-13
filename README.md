@@ -16,7 +16,7 @@
 ### Screenshot
 
 Desktop size
-![alt text](https://github.com/AbdoSadory/qrComponent/screencapture-localhost-3000-2023-01-13-22_26_53.png?raw=true)
+![alt text](https://github.com/AbdoSadory/qrComponent/screencapture-localhost-3000-2023-01-13-22_26_53.png)
 
 Mobile size (375px)
 ![alt text](https://github.com/AbdoSadory/qrComponent/screencapture-localhost-3000-2023-01-13-22_27_22.png?raw=true)
@@ -24,7 +24,7 @@ Mobile size (375px)
 ### Links
 
 - Solution URL: https://github.com/AbdoSadory/qrComponent
-- Live Site URL: [Add live site URL here](https://abdosadory.github.io/qrComponent/)
+- Live Site URL: https://abdosadory.github.io/qrComponent/
 
 ## My process
 
