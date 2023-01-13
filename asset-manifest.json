@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AbdoSadory/qrComponent/static/css/main.b6c4e7e2.css",
+    "main.js": "/AbdoSadory/qrComponent/static/js/main.fe6377a0.js",
+    "static/media/MavenPro-VariableFont_wght.ttf": "/AbdoSadory/qrComponent/static/media/MavenPro-VariableFont_wght.062f2c55ba707b91a7b7.ttf",
+    "index.html": "/AbdoSadory/qrComponent/index.html",
+    "main.b6c4e7e2.css.map": "/AbdoSadory/qrComponent/static/css/main.b6c4e7e2.css.map",
+    "main.fe6377a0.js.map": "/AbdoSadory/qrComponent/static/js/main.fe6377a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6c4e7e2.css",
+    "static/js/main.fe6377a0.js"
+  ]
+}
